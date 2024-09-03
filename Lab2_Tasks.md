@@ -1,4 +1,5 @@
 # Github-test1
+ALGORITHM TASKS
 #1. Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6). If so, determine if it’s an even number or odd number as well.
 1. Control Module
 2. INPUT num1=N
@@ -66,4 +67,7 @@
 24.   PRINT 'Ans5, Press AC key to continue'
 25. #AC key will clear the screen and memory to allow new data to be used
 
-26. 
+
+PSEUDOCODE TASKS
+#1. Find the maximum number in any of three variables.
+1.
