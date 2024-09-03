@@ -4,3 +4,4 @@ I was asked about my hobbies in my first introduction so I shall let you know th
 Besides that I think I like coding primarily because it is fun, you can play around with the code, let your mind wander and make as many mistakes as you need to
 P.S I haven't done much coding
 I only did some with the help of a youtube video on Replit on Python but nevertheless, I had a fun time
+![My image from when I was in college](file:///C:/Users/lenovo/Downloads/My%20passport%20size%20pic.JPG)
