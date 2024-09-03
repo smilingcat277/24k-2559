@@ -20,3 +20,9 @@
 19.  PRINT 'August'
 20. IF num = 9
 21.  PRINT 'September'
+22. IF num = 10
+23.  PRINT 'October'
+24. IF num = 11
+25.  PRINT 'November'
+26. IF num = 12
+27.  PRINT 'December'
