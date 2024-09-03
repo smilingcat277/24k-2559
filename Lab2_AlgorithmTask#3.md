@@ -21,3 +21,5 @@
 21.   PRINT 'Ans4, Press AC key to continue'
 22.  IF Operator = '/'
 23.   CALC num1/num2 = Ans5
+24.   PRINT 'Ans5, Press AC key to continue'
+25. #AC key will clear the screen and memory to allow new data to be used
