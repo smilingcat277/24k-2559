@@ -9,5 +9,6 @@
 8. PRINT 'Input '+' or '-'
 9. INPUT operator = '+' or '-'
 10. CALCULATE num1 op num2 = Ans
-11. PRINT Ans
+11. PRINT 'Ans. Press AC to continue'
 12. END
+#AC will clear the screen and memory to allow the program to run again
