@@ -1,13 +1,15 @@
 #1. Find the maximum number in any of three variables.
 1. START
-2. INPUT number1
-3. INPUT number2
-4. INPUT number3
-5. IF number1>number2 AND number3
-6.  PRINT 'number1 is greatest. Press AC key to continue'
-7. IF number2>number1 AND number3
-8.  PRINT 'number2 is greatest. Press AC key to continue'
-9. ELSE
-10. PRINT 'number3 is greatest. Press AC key to continue'
-12. END
-#AC Key will clear the screen and memory to allow the program to run again
+2. PRINT 'Input num1 and press ='
+3. INPUT number1
+4. PRINT 'Input num2 and press ='
+5. INPUT number2
+6. PRINT 'Input num3 and press ='
+7. INPUT number3
+8. IF number1>number2 AND number3
+9.  PRINT 'number1 is greatest'
+10. IF number2>number1 AND number3
+11.  PRINT 'number2 is greatest'
+12. ELSE
+13. PRINT 'number3 is greatest'
+14. END
